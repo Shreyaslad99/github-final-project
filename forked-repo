@@ -1,0 +1,10 @@
+$ curl https://api.github.com/repos/YOUR_GITHUB_USERNAME/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
+
+TEMPLATE ONLY: Replace YOUR_GITHUB_USERNAME and run the command to capture your actual repository response.

@@ -1,0 +1,6 @@
+$ git branch -vv
+  bug-fix-revert <commit> Temporary branch
+  bug-fix-typo   <commit> Fix typo
+* main           <commit> Final project complete
+
+TEMPLATE ONLY: Run `git branch -vv` in your repository to capture real branch names and commit hashes.

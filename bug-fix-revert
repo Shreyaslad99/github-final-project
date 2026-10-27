@@ -1,0 +1,17 @@
+$ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/YOUR_PULL_REQUEST_NUMBER
+
+[
+  {
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/YOUR_PULL_REQUEST_NUMBER",
+    "head": {
+      "label": "YOUR_GITHUB_USERNAME:bug-fix-typo",
+      "ref": "bug-fix-typo",
+      "repo": {
+        "full_name": "YOUR_GITHUB_USERNAME/mcino-Introduction-to-Git-and-GitHub",
+        "fork": true
+      }
+    }
+  }
+]
+
+TEMPLATE ONLY: Replace placeholders and save the actual curl output for your pull request.

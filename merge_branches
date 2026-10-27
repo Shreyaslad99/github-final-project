@@ -1,0 +1,9 @@
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo
+Updating <old-commit>..<new-commit>
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+TEMPLATE ONLY: Run these commands in your own repository to capture the real commit IDs and output.
